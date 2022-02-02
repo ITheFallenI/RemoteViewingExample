@@ -1,0 +1,15 @@
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\ScreenShareHosting.exe.config
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\ScreenShareHosting.exe
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\ScreenShareHosting.pdb
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\RemoteViewing.dll
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\RemoteViewing.Windows.Forms.dll
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\RemoteViewing.pdb
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\RemoteViewing.xml
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\RemoteViewing.Windows.Forms.pdb
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\bin\Release\RemoteViewing.Windows.Forms.xml
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\obj\Release\ScreenShareHosting.Properties.Resources.resources
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\obj\Release\ScreenShareHosting.csproj.GenerateResource.cache
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\obj\Release\ScreenShareHosting.csproj.CoreCompileInputs.cache
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\obj\Release\ScreenShareHosting.csproj.CopyComplete
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\obj\Release\ScreenShareHosting.exe
+C:\Users\Tyrone\source\repos\ShareScreenApp\ScreenShareHosting\obj\Release\ScreenShareHosting.pdb

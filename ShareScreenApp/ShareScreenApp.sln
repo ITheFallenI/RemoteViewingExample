@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareScreenViewer", "ShareScreenApp\ShareScreenViewer.csproj", "{A10E53DB-CFF5-47BE-92F9-DAD9C989DB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenShareHosting", "ScreenShareHosting\ScreenShareHosting.csproj", "{504EAF0C-2EEF-4253-87F4-DF98E69800D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10E53DB-CFF5-47BE-92F9-DAD9C989DB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10E53DB-CFF5-47BE-92F9-DAD9C989DB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10E53DB-CFF5-47BE-92F9-DAD9C989DB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10E53DB-CFF5-47BE-92F9-DAD9C989DB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504EAF0C-2EEF-4253-87F4-DF98E69800D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504EAF0C-2EEF-4253-87F4-DF98E69800D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504EAF0C-2EEF-4253-87F4-DF98E69800D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504EAF0C-2EEF-4253-87F4-DF98E69800D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9038754A-3034-4B90-8156-7C291C72DC47}
+	EndGlobalSection
+EndGlobal

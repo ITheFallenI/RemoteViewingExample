@@ -1,0 +1,17 @@
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\ShareScreenApp.exe.config
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\ShareScreenApp.exe
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\ShareScreenApp.pdb
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\RemoteViewing.dll
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\RemoteViewing.Windows.Forms.dll
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\RemoteViewing.pdb
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\RemoteViewing.xml
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\RemoteViewing.Windows.Forms.pdb
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\bin\Release\RemoteViewing.Windows.Forms.xml
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\obj\Release\ShareScreenApp.Form1.resources
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\obj\Release\ShareScreenApp.Login.resources
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\obj\Release\ShareScreenApp.Properties.Resources.resources
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\obj\Release\ShareScreenViewer.csproj.GenerateResource.cache
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\obj\Release\ShareScreenViewer.csproj.CoreCompileInputs.cache
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\obj\Release\ShareScreenViewer.csproj.CopyComplete
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\obj\Release\ShareScreenApp.exe
+C:\Users\Tyrone\source\repos\ShareScreenApp\ShareScreenApp\obj\Release\ShareScreenApp.pdb
